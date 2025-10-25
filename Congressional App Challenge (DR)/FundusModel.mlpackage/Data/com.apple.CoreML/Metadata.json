@@ -1,0 +1,11 @@
+{
+  "MLModelVersionStringKey" : "1.0",
+  "MLModelDescriptionKey" : "Diabetic Retinopathy Detection with GradCAM Support",
+  "MLModelCreatorDefinedKey" : {
+    "com.github.apple.coremltools.source_dialect" : "TorchScript",
+    "com.github.apple.coremltools.source" : "torch==2.4.1",
+    "com.github.apple.coremltools.version" : "8.3.0"
+  },
+  "MLModelAuthorKey" : "Your Name",
+  "MLModelLicenseKey" : "MIT"
+}

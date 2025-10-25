@@ -1,0 +1,21 @@
+{
+  "Inputs" : {
+    "input" : {
+      "MLFeatureShortDescription" : "Retinal fundus image (224x224x3) RGB"
+    }
+  },
+  "Outputs" : {
+    "logits" : {
+      "MLFeatureShortDescription" : "Diabetic retinopathy probability logits"
+    },
+    "features" : {
+      "MLFeatureShortDescription" : "Feature maps for GradCAM (1792x7x7)"
+    }
+  },
+  "TrainingInputs" : {
+
+  },
+  "States" : {
+
+  }
+}
