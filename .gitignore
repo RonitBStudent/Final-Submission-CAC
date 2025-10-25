@@ -1,0 +1,23 @@
+# Python Bundle (not needed on GitHub)
+python_bundle/
+
+# Python files (development only)
+*.py
+*.pyc
+__pycache__/
+
+# Test images (not needed in repo)
+test_*.png
+output_test.png
+realistic_fundus_test.png
+
+# macOS
+.DS_Store
+
+# Xcode user-specific files
+xcuserdata/
+*.xcuserstate
+
+# Build artifacts
+build/
+DerivedData/
