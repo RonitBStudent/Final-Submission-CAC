@@ -14,8 +14,7 @@ Ocunetra is a mobile iOS app that uses AI and machine learning to help users scr
 
 * **Languages:** Python, Swift
 * **Platforms:** iOS, CoreML
-* **Tools:** SHAP explainability, custom 3D‑printed attachment
-
+* **Tools:** SHAP explainability, as well as tips about eye health
 ## Why We Built It
 
 We were inspired by family experiences with preventable blindness and the lack of access to eye care in rural and underserved areas. With most people owning smartphones, we wanted to create an affordable and accessible way for anyone to check their eye health.
