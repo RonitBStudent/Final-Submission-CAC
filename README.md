@@ -1,7 +1,6 @@
 # Ocunetra
 
-Ocunetra is a mobile iOS app that uses AI and machine learning to help users screen for common eye conditions using only their smartphone and a low‑cost 3D‑printed fundus camera attachment.
-
+Ocunetra is a mobile iOS app that uses AI and machine learning to help users screen for common eye conditions using only their smartphone
 ## What the App Does
 
 * Screens for **Diabetic Retinopathy** using a model trained on 4,000+ images (99.71% accuracy)
