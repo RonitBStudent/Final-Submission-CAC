@@ -3,7 +3,7 @@
 Ocunetra is a mobile iOS app that uses AI and machine learning to help users screen for common eye conditions using only their smartphone
 ## What the App Does
 
-* Screens for **Diabetic Retinopathy** using a model trained on 4,000+ images (99.71% accuracy)
+* Screens for **Diabetic Retinopathy** using a model trained on 6,000+ images 
 * Screens for **Conjunctivitis** using a model trained on 2,500 images
 * Generates **SHAP heatmaps** to show what areas influenced the AI's prediction
 * Includes common eye tests: Amsler Grid, Ishihara color blindness, contrast sensitivity, and peripheral vision
@@ -13,11 +13,11 @@ Ocunetra is a mobile iOS app that uses AI and machine learning to help users scr
 ## Languages/technology Used
 
 * **Languages:** Python, Swift
-* **Platforms:** iOS, CoreML
+* **Platforms:** iOS, CoreML, MacOS (for development)
 * **Tools:** SHAP explainability, as well as tips about eye health
 ## Why We Built It
 
-We were inspired by family experiences with preventable blindness and the lack of access to eye care in rural and underserved areas. With most people owning smartphones, we wanted to create an affordable and accessible way for anyone to check their eye health.
+We were inspired by personal family experiences with preventable blindness and the lack of access to eye care in rural and underserved areas. With most people owning smartphones, we wanted to create an affordable and accessible way for anyone to check their eye health.
 
 ## Challenges
 
@@ -27,7 +27,6 @@ We were inspired by family experiences with preventable blindness and the lack o
 
 ## Future Improvements
 
-* Stronger conjunctivitis model with more diverse data
 * Multilingual and text‑to‑speech support
 * Secure clinical data sharing and remote monitoring features
 
